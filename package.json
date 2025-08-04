@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsmodbus": "^4.0.10",
+    "modbus-serial": "^8.0.21-no-serial-port",
+    "mssql": "^11.0.1",
+    "net": "^1.0.2"
+  }
+}
